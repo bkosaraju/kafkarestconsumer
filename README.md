@@ -1,3 +1,10 @@
+[![Circle CI](https://circleci.com/gh/bkosaraju/inferencer.svg?style=shield)](https://app.circleci.com/pipelines/github/bkosaraju/kafkarestconsumer)
+[![Open Issues](https://img.shields.io/github/issues/bkosaraju/kafkarestconsumer.svg
+)](https://github.com/bkosaraju/kafkarestconsumer/issues)
+[![Apache license](https://img.shields.io/crates/l/Apache?color=green&label=Apache%202.0&logo=apache&logoColor=red
+)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+[![Version](https://img.shields.io/github/v/tag/bkosaraju/kafkarestconsumer?label=Current%20Version)]()
+
 # Kafka Rest Consumer
 
 Spring boot based application to consume data from REST api with custom reader and produce the data into kafka topic. 
